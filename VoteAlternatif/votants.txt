@@ -1,0 +1,345 @@
+ALI	
+Mdallah
+4 2 3 1 
+AMETTLER	
+Thibault
+4 1 3 2 
+ATROKHOV                      
+Alexis
+2 1 3 4 
+ATTAR	
+Mohamed-Nadir
+3 4 1 2 
+AVENA	
+Clement
+1 3 4 2 
+BACHAR	
+Bilal
+2 3 1 4 
+BADJOUDJ 
+Hana
+3 1 2 4 
+BAMAS	
+Mathias
+2 3 4 1 
+BARROSO YELMO	
+Mathias
+3 2 4 1 
+BARTE	
+Antonin
+4 2 3 1 
+BAUDOUY	
+Ugo
+2 3 1 4 
+BEAUQUIER	
+Quentin
+1 2 3 4 
+BEDDIAF	
+Miloud
+4 2 1 3 
+BEDOS
+Enzo
+3 1 2 4 
+BELABBAS	
+Rayane
+2 4 3 1 
+BENDJEDDOU	
+Rayan
+3 1 2 4 
+BENLAKHLEF	
+Medhi
+3 4 2 1 
+BERGERON	
+Alexandre
+3 1 2 4 
+BIHI	
+Ayoub
+3 2 1 4 
+BOINAALI	
+Chris
+2 3 1 4 
+BOSSO	
+Gavril
+3 4 1 2 
+BOUGEARD	
+Bastien
+2 1 4 3 
+BOUT	
+Thomas
+2 4 3 1 
+BOUYEDA	
+Remi
+3 1 4 2 
+BRADAI	
+Chiheb
+3 1 2 4 
+BRAHMI	
+Moundir
+4 3 1 2 
+BRUNET	
+Ronan
+4 3 1 2 
+CANO	
+Vincent
+4 2 1 3 
+CARON	
+Pierrick
+1 4 3 2 
+CARVAJAL	
+Tom
+3 1 2 4 
+CHOPARD	
+William
+1 3 4 2 
+CLEMENT	
+Amadeus
+2 3 4 1 
+COMBELONGE	
+Enzo
+3 4 1 2 
+CRESPIN	
+Alexandre
+2 4 3 1 
+DA SILVA SANTOS	
+Lucas
+1 4 2 3 
+DAW	
+Charles
+3 2 1 4 
+DE ANGELI	
+Adam
+2 1 3 4 
+DE SOUSA GUEDES	
+Raphael
+3 2 1 4 
+DEGANO	
+Matteo
+1 2 3 4 
+DELIN	
+Alexis
+3 1 4 2 
+DELIN	
+Maxime
+1 4 2 3 
+DELMAS	
+Mathis
+4 1 3 2 
+DIOP	
+Sokhna
+1 3 4 2 
+DITLECADET	
+Michael
+2 4 1 3 
+DOLCE	
+Lino
+3 2 1 4 
+DUROISIN	
+Tom
+2 3 4 1 
+ESSALHI	
+Ayoub
+4 2 3 1 
+EVEN	
+Tom
+3 2 4 1 
+FALFERI	
+Gabin
+1 2 3 4 
+FARDOUX	
+Theo
+3 2 4 1 
+FERRANDO	
+Alexis
+2 1 4 3 
+FERRIER
+Killian
+4 3 1 2 
+FLORIS-MIALHE	
+Axel
+4 3 1 2 
+FREDDI	
+Logan
+4 3 1 2 
+GINER	
+Leo
+1 4 3 2 
+GIORDANO	
+Yoann
+1 3 4 2  
+GIRODENGO	
+Camille
+1 2 3 4 
+GODINAUD	
+Maïlys
+3 2 4 1 
+GOUACHE	
+Nathan
+2 1 3 4 
+HARICOT	
+Pierre
+3 4 2 1 
+HENRICY	
+Noah
+2 3 4 1 
+HOSPITAL                     
+Jules
+1 3 4 2 
+HOURLAY	
+Enzo
+4 1 3 2 
+IKHERBANE	
+Sami
+2 4 1 3 
+JAURAS	
+Maxime
+3 1 4 2 
+KHADRAOUI	
+Sabri
+4 2 3 1 
+KUZMENKO	
+Yehor
+2 3 4 1 
+LARTIGAUD	
+Elliot
+4 3 2 1 
+LEBRUN	
+Noa
+1 4 3 2 
+LEPERLIER	
+Mael
+1 3 4 2 
+LEROUGE	
+Robin
+2 1 4 3 
+LEROUX	
+Mathieu
+1 3 2 4 
+LESTRELIN	
+Valentin
+2 3 1 4 
+LIETO	
+Myke
+1 2 3 4 
+LIMOSANI	
+Francesco
+4 1 3 2 
+LOUARN	
+Mathis
+1 3 4 2 
+MAGNAN	
+Lukas
+2 3 4 1 
+MAOULIDA ATTOUMANI	
+Yazid-Raoul
+2 3 1 4 
+MARIE	
+Clement
+2 3 4 1 
+MARTINEZ	
+Romain
+1 3 2 4 
+MESLI                 
+Mohamed
+4 1 2 3 
+MISIEK	
+Romain
+2 4 1 3 
+MOMY
+Aurore
+1 2 4 3 
+MONTANARD
+Hugo
+2 3 4 1 
+N' GUYEN	
+Lucas
+2 3 1 4 
+NARDI	
+Fabio
+2 4 3 1 
+OGER	
+Leo
+4 2 3 1 
+PIOCT	
+Rayan
+3 1 4 2 
+PONOMARENKO	
+Edouard
+2 1 3 4 
+PORTELLI	
+Angelo
+1 4 2 3 
+POSSENTI	
+Alexandre
+2 1 4 3 
+RAMILSON	
+Lorys
+3 1 4 2 
+RIPOCHE	
+Sarah
+2 4 3 1 
+ROSSI	
+Valentin
+1 3 2 4 
+ROUBAUD	
+Axel
+1 4 2 3 
+ROUGE	
+Gabriel
+2 1 4 3 
+ROUSSET	
+Antonin
+3 1 2 4 
+RUGIERO	
+Tymeo
+2 3 1 4 
+SAFRAN	
+Yoni
+1 3 4 2 
+SALA-MOCHIZUKI	
+Yuki
+4 2 3 1 
+SALOMON	
+Clement
+4 2 1 3 
+SANTOS	
+Audran
+4 1 3 2 
+SCIACCA	
+Matteo
+1 3 4 2 
+SEJOURNE
+Victor
+1 2 4 3 
+SOLLE	
+Mathis
+2 1 4 3 
+SOUDANI REGUIG	
+Lyes-Yacine
+2 4 1 3 
+STROPPIANA	
+Damien
+2 1 4 3 
+TAMARIN	
+Maxime
+1 3 2 4 
+THIEL	
+Maxime
+4 2 3 1 
+TORRES	
+Julien
+2 1 4 3 
+VINCENT	
+Erwan
+2 4 3 1 
+ZAINA	
+Elias
+3 1 2 4 
+ZOPPI	
+Lucie
+1 3 4 2 
+###
+Question : Quel est le meilleur jeu vidéo ?
+Counter strike
+Street Fighter II
+Civilisation VI
+Mario Kart

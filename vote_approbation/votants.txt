@@ -1,0 +1,345 @@
+ALI	
+Mdallah
+0 0 0 1 
+AMETTLER	
+Thibault
+0 1 0 1 
+ATROKHOV                      
+Alexis
+1 1 1 0 
+ATTAR	
+Mohamed-Nadir
+1 1 1 1 
+AVENA	
+Clement
+1 0 0 1 
+BACHAR	
+Bilal
+0 0 1 0 
+BADJOUDJ 
+Hana
+1 1 0 0 
+BAMAS	
+Mathias
+1 1 0 1 
+BARROSO YELMO	
+Mathias
+1 0 1 1 
+BARTE	
+Antonin
+1 0 0 1 
+BAUDOUY	
+Ugo
+1 1 1 1 
+BEAUQUIER	
+Quentin
+1 0 0 0 
+BEDDIAF	
+Miloud
+0 0 1 0 
+BEDOS
+Enzo
+0 1 1 0 
+BELABBAS	
+Rayane
+0 0 0 1 
+BENDJEDDOU	
+Rayan
+1 1 0 0 
+BENLAKHLEF	
+Medhi
+1 1 0 1 
+BERGERON	
+Alexandre
+1 1 0 0 
+BIHI	
+Ayoub
+0 0 1 0 
+BOINAALI	
+Chris
+0 1 1 0 
+BOSSO	
+Gavril
+0 0 1 0 
+BOUGEARD	
+Bastien
+0 1 0 0 
+BOUT	
+Thomas
+0 0 0 1 
+BOUYEDA	
+Remi
+1 1 1 1 
+BRADAI	
+Chiheb
+0 1 1 1 
+BRAHMI	
+Moundir
+0 1 1 0 
+BRUNET	
+Ronan
+0 0 1 0 
+CANO	
+Vincent
+1 1 1 0 
+CARON	
+Pierrick
+1 0 1 0 
+CARVAJAL	
+Tom
+1 1 1 0 
+CHOPARD	
+William
+1 0 0 0 
+CLEMENT	
+Amadeus
+1 0 0 0 
+COMBELONGE	
+Enzo
+1 0 1 0 
+CRESPIN	
+Alexandre
+0 1 0 1 
+DA SILVA SANTOS	
+Lucas
+1 0 0 0 
+DAW	
+Charles
+1 0 1 0 
+DE ANGELI	
+Adam
+1 1 0 0 
+DE SOUSA GUEDES	
+Raphael
+0 0 1 0 
+DEGANO	
+Matteo
+1 0 0 0 
+DELIN	
+Alexis
+0 1 0 0 
+DELIN	
+Maxime
+1 0 0 0 
+DELMAS	
+Mathis
+0 1 0 0 
+DIOP	
+Sokhna
+1 1 1 1 
+DITLECADET	
+Michael
+0 0 1 0 
+DOLCE	
+Lino
+0 0 1 0 
+DUROISIN	
+Tom
+0 1 1 1 
+ESSALHI	
+Ayoub
+0 0 0 1 
+EVEN	
+Tom
+0 0 0 1 
+FALFERI	
+Gabin
+1 0 0 0 
+FARDOUX	
+Theo
+1 0 0 1 
+FERRANDO	
+Alexis
+0 1 0 0 
+FERRIER
+Killian
+1 0 1 0 
+FLORIS-MIALHE	
+Axel
+0 1 1 0 
+FREDDI	
+Logan
+0 1 1 0 
+GINER	
+Leo
+1 0 0 0 
+GIORDANO	
+Yoann
+1 0 1 0  
+GIRODENGO	
+Camille
+1 0 0 0 
+GODINAUD	
+Maïlys
+0 1 0 1 
+GOUACHE	
+Nathan
+0 1 1 0 
+HARICOT	
+Pierre
+0 0 0 1 
+HENRICY	
+Noah
+0 0 0 1 
+HOSPITAL                     
+Jules
+1 0 0 1 
+HOURLAY	
+Enzo
+1 1 0 0 
+IKHERBANE	
+Sami
+1 0 1 0 
+JAURAS	
+Maxime
+1 1 0 0 
+KHADRAOUI	
+Sabri
+1 0 0 1 
+KUZMENKO	
+Yehor
+0 0 0 1 
+LARTIGAUD	
+Elliot
+1 1 0 1 
+LEBRUN	
+Noa
+1 0 1 0 
+LEPERLIER	
+Mael
+1 0 0 0 
+LEROUGE	
+Robin
+1 1 0 0 
+LEROUX	
+Mathieu
+1 0 0 0 
+LESTRELIN	
+Valentin
+0 0 1 0 
+LIETO	
+Myke
+1 0 0 0 
+LIMOSANI	
+Francesco
+1 1 0 0 
+LOUARN	
+Mathis
+1 0 0 0 
+MAGNAN	
+Lukas
+0 0 0 1 
+MAOULIDA ATTOUMANI	
+Yazid-Raoul
+1 0 1 0 
+MARIE	
+Clement
+0 0 0 1 
+MARTINEZ	
+Romain
+1 1 1 0 
+MESLI                 
+Mohamed
+1 1 0 0 
+MISIEK	
+Romain
+0 0 1 0 
+MOMY
+Aurore
+1 0 1 0 
+MONTANARD
+Hugo
+0 0 0 1 
+N' GUYEN	
+Lucas
+1 0 1 0 
+NARDI	
+Fabio
+0 0 1 1 
+OGER	
+Leo
+0 0 1 1 
+PIOCT	
+Rayan
+1 1 0 1 
+PONOMARENKO	
+Edouard
+0 1 0 0 
+PORTELLI	
+Angelo
+1 1 0 0 
+POSSENTI	
+Alexandre
+0 1 0 0 
+RAMILSON	
+Lorys
+1 1 0 0 
+RIPOCHE	
+Sarah
+1 1 1 1 
+ROSSI	
+Valentin
+1 0 0 0 
+ROUBAUD	
+Axel
+1 0 1 0 
+ROUGE	
+Gabriel
+1 1 0 0 
+ROUSSET	
+Antonin
+0 1 0 0 
+RUGIERO	
+Tymeo
+0 0 1 0 
+SAFRAN	
+Yoni
+1 0 0 0 
+SALA-MOCHIZUKI	
+Yuki
+0 1 1 1 
+SALOMON	
+Clement
+1 0 1 0 
+SANTOS	
+Audran
+1 1 0 0 
+SCIACCA	
+Matteo
+1 0 0 0 
+SEJOURNE
+Victor
+1 0 1 0 
+SOLLE	
+Mathis
+0 1 0 0 
+SOUDANI REGUIG	
+Lyes-Yacine
+0 0 1 0 
+STROPPIANA	
+Damien
+1 1 0 0 
+TAMARIN	
+Maxime
+1 0 0 0 
+THIEL	
+Maxime
+0 0 0 1 
+TORRES	
+Julien
+0 1 0 0 
+VINCENT	
+Erwan
+1 0 0 1 
+ZAINA	
+Elias
+0 1 0 0 
+ZOPPI	
+Lucie
+1 0 1 0 
+###
+Question : Quel est le meilleur jeu vidéo ?
+Counter strike
+Street Fighter II
+Civilisation VI
+Mario Kart

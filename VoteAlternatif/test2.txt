@@ -1,0 +1,96 @@
+ALI	
+Mdallah
+1 2 3 4
+AMETTLER	
+Thibault
+1 2 3 4
+ATROKHOV                      
+Alexis
+1 2 3 4
+ATTAR	
+Mohamed-Nadir
+1 2 3 4
+AVENA	
+Clement
+1 2 3 4
+BACHAR	
+Bilal
+1 2 3 4
+BADJOUDJ 
+Hana
+1 2 3 4
+BAMAS	
+Mathias
+1 2 3 4
+BARROSO YELMO	
+Mathias
+1 2 3 4
+BARTE	
+Antonin
+1 2 3 4
+BAUDOUY	
+Ugo
+1 2 3 4
+BEAUQUIER	
+Quentin
+1 2 3 4
+BEDDIAF	
+Miloud
+1 4 2 3
+BEDOS
+Enzo
+1 4 2 3
+BELABBAS	
+Rayane
+1 4 2 3
+BENDJEDDOU	
+Rayan
+1 4 2 3
+BENLAKHLEF	
+Medhi
+4 1 2 3
+BERGERON	
+Alexandre
+4 1 2 3
+BIHI	
+Ayoub
+4 1 2 3
+BOINAALI	
+Chris
+4 1 2 3
+BOSSO	
+Gavril
+4 3 1 2
+BOUGEARD	
+Bastien
+4 3 1 2
+BOUT	
+Thomas
+4 3 1 2
+BOUYEDA	
+Remi
+4 3 1 2
+BRADAI	
+Chiheb
+4 3 2 1
+BRAHMI	
+Moundir
+4 3 2 1
+BRUNET	
+Ronan
+4 3 2 1
+CANO	
+Vincent
+4 3 2 1
+CARON	
+Pierrick
+4 3 2 1
+CARVAJAL	
+Tom
+4 3 2 1
+###
+question
+ville A
+ville B
+ville C
+ville D
