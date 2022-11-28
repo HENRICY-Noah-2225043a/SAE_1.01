@@ -90,7 +90,6 @@ void calculer_et_afficher_Gagnant() {
   // Fonction calculant et affichant le gagnant du vote négatif ainsi que son nombre de votes.
   Candidat candidat;
   vector<Candidat> liste_Candidats;
-  unsigned nbre_candidat = 0;
   vector<int> votes;
   unsigned compteur = 0;
   for (string ligne; getline(cin, ligne);) {
